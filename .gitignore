@@ -1,2 +1,5 @@
 /.venv/
 .env
+personal_scoring.py
+/output/
+
